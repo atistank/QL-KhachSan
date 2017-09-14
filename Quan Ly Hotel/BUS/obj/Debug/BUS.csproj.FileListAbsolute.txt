@@ -1,0 +1,90 @@
+C:\Users\LAMLE\Desktop\QLNhaTro\BUS\bin\Debug\BUS.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\BUS\bin\Debug\BUS.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\BUS\bin\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\BUS\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\BUS\bin\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\BUS\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\QLNhaTro\BUS\obj\Debug\BUS.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\BUS\obj\Debug\BUS.pdb
+C:\Users\huuth_000\Downloads\goc\goc\BUS\bin\Debug\BUS.dll
+C:\Users\huuth_000\Downloads\goc\goc\BUS\bin\Debug\BUS.pdb
+C:\Users\huuth_000\Downloads\goc\goc\BUS\bin\Debug\DAO.dll
+C:\Users\huuth_000\Downloads\goc\goc\BUS\bin\Debug\DTO.dll
+C:\Users\huuth_000\Downloads\goc\goc\BUS\bin\Debug\DAO.pdb
+C:\Users\huuth_000\Downloads\goc\goc\BUS\bin\Debug\DTO.pdb
+C:\Users\huuth_000\Downloads\goc\goc\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\huuth_000\Downloads\goc\goc\BUS\obj\Debug\BUS.dll
+C:\Users\huuth_000\Downloads\goc\goc\BUS\obj\Debug\BUS.pdb
+C:\Users\LAMLE\Desktop\goc1\BUS\bin\Debug\BUS.dll
+C:\Users\LAMLE\Desktop\goc1\BUS\bin\Debug\BUS.pdb
+C:\Users\LAMLE\Desktop\goc1\BUS\bin\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\goc1\BUS\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\goc1\BUS\bin\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\goc1\BUS\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\goc1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\goc1\BUS\obj\Debug\BUS.dll
+C:\Users\LAMLE\Desktop\goc1\BUS\obj\Debug\BUS.pdb
+C:\Users\LAMLE\Desktop\QLNT\BUS\bin\Debug\BUS.dll
+C:\Users\LAMLE\Desktop\QLNT\BUS\bin\Debug\BUS.pdb
+C:\Users\LAMLE\Desktop\QLNT\BUS\bin\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\QLNT\BUS\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNT\BUS\bin\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\QLNT\BUS\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\QLNT\BUS\obj\Debug\BUS.dll
+C:\Users\LAMLE\Desktop\QLNT\BUS\obj\Debug\BUS.pdb
+D:\Desktop\QLNT\BUS\bin\Debug\BUS.dll
+D:\Desktop\QLNT\BUS\bin\Debug\BUS.pdb
+D:\Desktop\QLNT\BUS\bin\Debug\DAO.dll
+D:\Desktop\QLNT\BUS\bin\Debug\DTO.dll
+D:\Desktop\QLNT\BUS\bin\Debug\DAO.pdb
+D:\Desktop\QLNT\BUS\bin\Debug\DTO.pdb
+D:\Desktop\QLNT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Desktop\QLNT\BUS\obj\Debug\BUS.dll
+D:\Desktop\QLNT\BUS\obj\Debug\BUS.pdb
+Z:\QLKTX\BUS\bin\Debug\BUS.dll
+Z:\QLKTX\BUS\bin\Debug\BUS.pdb
+Z:\QLKTX\BUS\bin\Debug\DAO.dll
+Z:\QLKTX\BUS\bin\Debug\DTO.dll
+Z:\QLKTX\BUS\bin\Debug\DAO.pdb
+Z:\QLKTX\BUS\bin\Debug\DTO.pdb
+Z:\QLKTX\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+Z:\QLKTX\BUS\obj\Debug\BUS.dll
+Z:\QLKTX\BUS\obj\Debug\BUS.pdb
+D:\DoAnLTQL\QLKTX\BUS\bin\Debug\BUS.dll
+D:\DoAnLTQL\QLKTX\BUS\bin\Debug\BUS.pdb
+D:\DoAnLTQL\QLKTX\BUS\bin\Debug\DAO.dll
+D:\DoAnLTQL\QLKTX\BUS\bin\Debug\DTO.dll
+D:\DoAnLTQL\QLKTX\BUS\bin\Debug\DAO.pdb
+D:\DoAnLTQL\QLKTX\BUS\bin\Debug\DTO.pdb
+D:\DoAnLTQL\QLKTX\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\DoAnLTQL\QLKTX\BUS\obj\Debug\BUS.dll
+D:\DoAnLTQL\QLKTX\BUS\obj\Debug\BUS.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\BUS.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\BUS.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\obj\Debug\BUS.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\obj\Debug\BUS.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\BUS.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\BUS.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\obj\Debug\BUS.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\BUS\obj\Debug\BUS.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\BUS\bin\Debug\BUS.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\BUS\bin\Debug\BUS.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\BUS\bin\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\BUS\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\BUS\bin\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\BUS\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\BUS\obj\Debug\BUS.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,70 @@
+C:\Users\LAMLE\Desktop\QLNhaTro\DAO\bin\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\DAO\bin\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\DAO\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\DAO\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\QLNhaTro\DAO\obj\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\DAO\obj\Debug\DAO.pdb
+C:\Users\huuth_000\Downloads\goc\goc\DAO\bin\Debug\DAO.dll
+C:\Users\huuth_000\Downloads\goc\goc\DAO\bin\Debug\DAO.pdb
+C:\Users\huuth_000\Downloads\goc\goc\DAO\bin\Debug\DTO.dll
+C:\Users\huuth_000\Downloads\goc\goc\DAO\bin\Debug\DTO.pdb
+C:\Users\huuth_000\Downloads\goc\goc\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\huuth_000\Downloads\goc\goc\DAO\obj\Debug\DAO.dll
+C:\Users\huuth_000\Downloads\goc\goc\DAO\obj\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\goc1\DAO\bin\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\goc1\DAO\bin\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\goc1\DAO\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\goc1\DAO\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\goc1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\goc1\DAO\obj\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\goc1\DAO\obj\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\QLNT\DAO\bin\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\QLNT\DAO\bin\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\QLNT\DAO\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNT\DAO\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNT\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\QLNT\DAO\obj\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\QLNT\DAO\obj\Debug\DAO.pdb
+D:\Desktop\QLNT\DAO\bin\Debug\DAO.dll
+D:\Desktop\QLNT\DAO\bin\Debug\DAO.pdb
+D:\Desktop\QLNT\DAO\bin\Debug\DTO.dll
+D:\Desktop\QLNT\DAO\bin\Debug\DTO.pdb
+D:\Desktop\QLNT\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Desktop\QLNT\DAO\obj\Debug\DAO.dll
+D:\Desktop\QLNT\DAO\obj\Debug\DAO.pdb
+Z:\QLKTX\DAO\bin\Debug\DAO.dll
+Z:\QLKTX\DAO\bin\Debug\DAO.pdb
+Z:\QLKTX\DAO\bin\Debug\DTO.dll
+Z:\QLKTX\DAO\bin\Debug\DTO.pdb
+Z:\QLKTX\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+Z:\QLKTX\DAO\obj\Debug\DAO.dll
+Z:\QLKTX\DAO\obj\Debug\DAO.pdb
+D:\DoAnLTQL\QLKTX\DAO\bin\Debug\DAO.dll
+D:\DoAnLTQL\QLKTX\DAO\bin\Debug\DAO.pdb
+D:\DoAnLTQL\QLKTX\DAO\bin\Debug\DTO.dll
+D:\DoAnLTQL\QLKTX\DAO\bin\Debug\DTO.pdb
+D:\DoAnLTQL\QLKTX\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\DoAnLTQL\QLKTX\DAO\obj\Debug\DAO.dll
+D:\DoAnLTQL\QLKTX\DAO\obj\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\bin\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\bin\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\obj\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\obj\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\bin\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\bin\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\obj\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DAO\obj\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\DAO\bin\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\DAO\bin\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\DAO\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\DAO\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\DAO\obj\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\DAO\obj\Debug\DAO.pdb

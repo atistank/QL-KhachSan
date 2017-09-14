@@ -1,0 +1,35 @@
+C:\Users\LAMLE\Desktop\QLNhaTro\DTO\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\DTO\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\DTO\obj\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\DTO\obj\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\goc1\DTO\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\goc1\DTO\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\goc1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\goc1\DTO\obj\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\goc1\DTO\obj\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNT\DTO\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNT\DTO\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\QLNT\DTO\obj\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNT\DTO\obj\Debug\DTO.pdb
+D:\Desktop\QLNT\DTO\bin\Debug\DTO.dll
+D:\Desktop\QLNT\DTO\bin\Debug\DTO.pdb
+D:\Desktop\QLNT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Desktop\QLNT\DTO\obj\Debug\DTO.dll
+D:\Desktop\QLNT\DTO\obj\Debug\DTO.pdb
+D:\DoAnLTQL\QLKTX\DTO\bin\Debug\DTO.dll
+D:\DoAnLTQL\QLKTX\DTO\bin\Debug\DTO.pdb
+D:\DoAnLTQL\QLKTX\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\DoAnLTQL\QLKTX\DTO\obj\Debug\DTO.dll
+D:\DoAnLTQL\QLKTX\DTO\obj\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\obj\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\obj\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\obj\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\DTO\obj\Debug\DTO.pdb

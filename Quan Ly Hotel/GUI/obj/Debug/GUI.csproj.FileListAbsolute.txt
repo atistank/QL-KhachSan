@@ -1,0 +1,368 @@
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\bin\Debug\GUI.exe.config
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\bin\Debug\GUI.exe
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\bin\Debug\GUI.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.exe
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\bin\Debug\BUS.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\bin\Debug\BUS.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_dangnhap.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_main.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_traphong.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_thongke.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_thongtin.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_lichsu.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_hethong.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_dichvu.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_datphong.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\bin\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\QLNhaTro\GUI\bin\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\goc\GUI\bin\Debug\GUI.exe.config
+C:\Users\LAMLE\Desktop\goc\GUI\obj\Debug\GUI.exe
+C:\Users\LAMLE\Desktop\goc\GUI\obj\Debug\GUI.pdb
+C:\Users\huuth_000\Downloads\goc\goc\GUI\bin\Debug\GUI.exe.config
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.exe
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.pdb
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_dangnhap.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_datphong.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_dichvu.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_hethong.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_lichsu.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_main.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_thongke.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_thongtin.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.frm_traphong.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\huuth_000\Downloads\goc\goc\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\huuth_000\Downloads\goc\goc\GUI\bin\Debug\GUI.exe
+C:\Users\huuth_000\Downloads\goc\goc\GUI\bin\Debug\GUI.pdb
+C:\Users\huuth_000\Downloads\goc\goc\GUI\bin\Debug\BUS.dll
+C:\Users\huuth_000\Downloads\goc\goc\GUI\bin\Debug\DTO.dll
+C:\Users\huuth_000\Downloads\goc\goc\GUI\bin\Debug\DAO.dll
+C:\Users\huuth_000\Downloads\goc\goc\GUI\bin\Debug\BUS.pdb
+C:\Users\huuth_000\Downloads\goc\goc\GUI\bin\Debug\DTO.pdb
+C:\Users\huuth_000\Downloads\goc\goc\GUI\bin\Debug\DAO.pdb
+E:\goc\goc\GUI\bin\Debug\GUI.exe.config
+E:\goc\goc\GUI\obj\Debug\GUI.exe
+E:\goc\goc\GUI\obj\Debug\GUI.pdb
+E:\goc\goc\GUI\bin\Debug\GUI.exe
+E:\goc\goc\GUI\bin\Debug\GUI.pdb
+E:\goc\goc\GUI\bin\Debug\BUS.dll
+E:\goc\goc\GUI\bin\Debug\DTO.dll
+E:\goc\goc\GUI\bin\Debug\DAO.dll
+E:\goc\goc\GUI\bin\Debug\BUS.pdb
+E:\goc\goc\GUI\bin\Debug\DTO.pdb
+E:\goc\goc\GUI\bin\Debug\DAO.pdb
+E:\goc\goc\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\goc\goc\GUI\obj\Debug\GUI.frm_dangnhap.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_datphong.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_dichvu.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_hethong.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_lichsu.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_main.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_thongke.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_thongtin.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+E:\goc\goc\GUI\obj\Debug\GUI.frm_traphong.resources
+E:\goc\goc\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\goc\goc\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\LAMLE\Downloads\goc\GUI\bin\Debug\GUI.exe.config
+C:\Users\LAMLE\Downloads\goc\GUI\obj\Debug\GUI.exe
+C:\Users\LAMLE\Downloads\goc\GUI\obj\Debug\GUI.pdb
+C:\Users\LAMLE\Desktop\goc1\GUI\bin\Debug\GUI.exe.config
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.exe
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.pdb
+C:\Users\LAMLE\Desktop\goc1\GUI\bin\Debug\GUI.exe
+C:\Users\LAMLE\Desktop\goc1\GUI\bin\Debug\GUI.pdb
+C:\Users\LAMLE\Desktop\goc1\GUI\bin\Debug\BUS.dll
+C:\Users\LAMLE\Desktop\goc1\GUI\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\goc1\GUI\bin\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\goc1\GUI\bin\Debug\BUS.pdb
+C:\Users\LAMLE\Desktop\goc1\GUI\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\goc1\GUI\bin\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_dangnhap.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_datphong.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_dichvu.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_hethong.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_lichsu.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_main.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_thongke.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_thongtin.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.frm_traphong.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\LAMLE\Desktop\goc1\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\LAMLE\Desktop\QLNT\GUI\bin\Debug\GUI.exe.config
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.exe
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.pdb
+C:\Users\LAMLE\Desktop\QLNT\GUI\bin\Debug\GUI.exe
+C:\Users\LAMLE\Desktop\QLNT\GUI\bin\Debug\GUI.pdb
+C:\Users\LAMLE\Desktop\QLNT\GUI\bin\Debug\BUS.dll
+C:\Users\LAMLE\Desktop\QLNT\GUI\bin\Debug\DTO.dll
+C:\Users\LAMLE\Desktop\QLNT\GUI\bin\Debug\DAO.dll
+C:\Users\LAMLE\Desktop\QLNT\GUI\bin\Debug\BUS.pdb
+C:\Users\LAMLE\Desktop\QLNT\GUI\bin\Debug\DTO.pdb
+C:\Users\LAMLE\Desktop\QLNT\GUI\bin\Debug\DAO.pdb
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_dangnhap.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_datphong.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_dichvu.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_hethong.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_lichsu.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_main.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thongke.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thongtin.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.frm_traphong.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\RdlCompile.cache
+C:\Users\LAMLE\Desktop\QLNT\GUI\obj\Debug\RdlCompile.compiled
+D:\Desktop\QLNT\GUI\bin\Debug\GUI.exe.config
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.exe
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.pdb
+D:\Desktop\QLNT\GUI\bin\Debug\GUI.exe
+D:\Desktop\QLNT\GUI\bin\Debug\GUI.pdb
+D:\Desktop\QLNT\GUI\bin\Debug\BUS.dll
+D:\Desktop\QLNT\GUI\bin\Debug\DTO.dll
+D:\Desktop\QLNT\GUI\bin\Debug\DAO.dll
+D:\Desktop\QLNT\GUI\bin\Debug\BUS.pdb
+D:\Desktop\QLNT\GUI\bin\Debug\DTO.pdb
+D:\Desktop\QLNT\GUI\bin\Debug\DAO.pdb
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_dangnhap.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_datphong.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_dichvu.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_hethong.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_lichsu.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_main.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thongke.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thongtin.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_traphong.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Desktop\QLNT\GUI\obj\Debug\RdlCompile.cache
+D:\Desktop\QLNT\GUI\obj\Debug\RdlCompile.compiled
+D:\Desktop\QLNT\GUI\obj\Debug\GUI.frm_load.resources
+Z:\QLKTX\GUI\bin\Debug\GUI.exe.config
+Z:\QLKTX\GUI\obj\Debug\GUI.exe
+Z:\QLKTX\GUI\obj\Debug\GUI.pdb
+Z:\QLKTX\GUI\bin\Debug\GUI.exe
+Z:\QLKTX\GUI\bin\Debug\GUI.pdb
+Z:\QLKTX\GUI\bin\Debug\BUS.dll
+Z:\QLKTX\GUI\bin\Debug\DTO.dll
+Z:\QLKTX\GUI\bin\Debug\DAO.dll
+Z:\QLKTX\GUI\bin\Debug\BUS.pdb
+Z:\QLKTX\GUI\bin\Debug\DTO.pdb
+Z:\QLKTX\GUI\bin\Debug\DAO.pdb
+Z:\QLKTX\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_dangnhap.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_datphong.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_dichvu.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_hethong.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_lichsu.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_load.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_main.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_thongke.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_thongtin.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.frm_traphong.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.Properties.Resources.resources
+Z:\QLKTX\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+Z:\QLKTX\GUI\obj\Debug\RdlCompile.cache
+Z:\QLKTX\GUI\obj\Debug\RdlCompile.compiled
+D:\DoAnLTQL\QLKTX\GUI\bin\Debug\GUI.exe.config
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.exe
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.pdb
+D:\DoAnLTQL\QLKTX\GUI\bin\Debug\GUI.exe
+D:\DoAnLTQL\QLKTX\GUI\bin\Debug\GUI.pdb
+D:\DoAnLTQL\QLKTX\GUI\bin\Debug\BUS.dll
+D:\DoAnLTQL\QLKTX\GUI\bin\Debug\DTO.dll
+D:\DoAnLTQL\QLKTX\GUI\bin\Debug\DAO.dll
+D:\DoAnLTQL\QLKTX\GUI\bin\Debug\BUS.pdb
+D:\DoAnLTQL\QLKTX\GUI\bin\Debug\DTO.pdb
+D:\DoAnLTQL\QLKTX\GUI\bin\Debug\DAO.pdb
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_dangnhap.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_datphong.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_dichvu.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_hethong.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_lichsu.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_load.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_main.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_thongke.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_thongtin.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.frm_traphong.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\RdlCompile.cache
+D:\DoAnLTQL\QLKTX\GUI\obj\Debug\RdlCompile.compiled
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\bin\Debug\GUI.exe.config
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.exe
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.pdb
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\bin\Debug\GUI.exe
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\bin\Debug\GUI.pdb
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\bin\Debug\BUS.dll
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\bin\Debug\DTO.dll
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\bin\Debug\DAO.dll
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\bin\Debug\BUS.pdb
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\bin\Debug\DTO.pdb
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\bin\Debug\DAO.pdb
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_dangnhap.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_datphong.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_dichvu.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_hethong.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_lichsu.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_load.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_main.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thongke.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thongtin.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_traphong.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\RdlCompile.cache
+D:\DoAnLTQL\Quan Ly Nha Tro\GUI\obj\Debug\RdlCompile.compiled
+D:\DoAnLTQL\LTQL_DPM135397\Quan Ly Nha Tro\GUI\bin\Debug\GUI.exe.config
+D:\DoAnLTQL\LTQL_DPM135397\Quan Ly Nha Tro\GUI\obj\Debug\GUI.exe
+D:\DoAnLTQL\LTQL_DPM135397\Quan Ly Nha Tro\GUI\obj\Debug\GUI.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\GUI.exe.config
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.exe
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\GUI.exe
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\BUS.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\BUS.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_dangnhap.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_datphong.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_dichvu.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_hethong.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_lichsu.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_load.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_main.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thongke.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thongtin.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_traphong.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Học Tập\lap trinh quan ly\LTQL_QLNhaTro(LeThanhLam_14PM)\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\GUI.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\GUI.exe.config
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\GUI.exe
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\GUI.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\BUS.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\BUS.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_dangnhap.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_datphong.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_dichvu.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_hethong.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_huongdansudung.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_lichsu.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_load.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_main.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thanhtoan.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thaydoimatkhau.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thongke.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thongtin.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_thongtinphong.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.frm_traphong.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.exe
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\bin\Debug\69024-bunifu_ui_v1.52.dll
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.DangNhap2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.Mainchinh2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.thongtinphong2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\LTQL_QLNhaTro(LeThanhLam_14PM)\Quan Ly Nha Tro\GUI\obj\Debug\GUI.datphong2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\GUI.exe.config
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\GUI.exe
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\GUI.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\69024-bunifu_ui_v1.52.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\BUS.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\DTO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\DAO.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\BUS.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\DTO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\bin\Debug\DAO.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.DangNhap2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.datphong2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.frm_re_thanhtoan.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.Mainchinh2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.thongtinphong2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.exe
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.pdb
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.test1.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.trangthai2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.thanhtoan2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.quanlyphong.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.tab2.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.UserControl1.resources
+D:\Học Tập\lap trinh quan ly\duy 3\duy\Quan Ly Hotel\GUI\obj\Debug\GUI.tieusu.resources

@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace GUI
+{
+    static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new DangNhap2());
+           //Application.Run(new frm_dichvu());
+        //   Application.Run(new frm_thanhtoan());
+          // Application.Run(new frm_main());
+           // Application.Run(new frm_dangnhap());
+          //  Application.Run(new frm_thaydoimatkhau());
+         //   Application.Run(new frm_hethong());
+        }
+    }
+}

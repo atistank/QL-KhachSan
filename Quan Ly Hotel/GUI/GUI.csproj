@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{54486685-4087-4A79-A8F7-C8CF08E90682}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="69024-bunifu_ui_v1.52">
+      <HintPath>..\..\..\..\..\69024-bunifu_ui_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DangNhap2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap2.Designer.cs">
+      <DependentUpon>DangNhap2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datphong2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="datphong2.Designer.cs">
+      <DependentUpon>datphong2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_re_thanhtoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_re_thanhtoan.Designer.cs">
+      <DependentUpon>frm_re_thanhtoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainchinh2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainchinh2.Designer.cs">
+      <DependentUpon>Mainchinh2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quanlyphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quanlyphong.Designer.cs">
+      <DependentUpon>quanlyphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tab2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="tab2.Designer.cs">
+      <DependentUpon>tab2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="test1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test1.Designer.cs">
+      <DependentUpon>test1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thanhtoan2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thanhtoan2.Designer.cs">
+      <DependentUpon>thanhtoan2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thongtinphong2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtinphong2.Designer.cs">
+      <DependentUpon>thongtinphong2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tieusu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tieusu.Designer.cs">
+      <DependentUpon>tieusu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trangthai2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trangthai2.Designer.cs">
+      <DependentUpon>trangthai2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vidu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vidu.Designer.cs">
+      <DependentUpon>vidu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DangNhap2.resx">
+      <DependentUpon>DangNhap2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="datphong2.resx">
+      <DependentUpon>datphong2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_re_thanhtoan.resx">
+      <DependentUpon>frm_re_thanhtoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainchinh2.resx">
+      <DependentUpon>Mainchinh2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="quanlyphong.resx">
+      <DependentUpon>quanlyphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="tab2.resx">
+      <DependentUpon>tab2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test1.resx">
+      <DependentUpon>test1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thanhtoan2.resx">
+      <DependentUpon>thanhtoan2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongtinphong2.resx">
+      <DependentUpon>thongtinphong2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tieusu.resx">
+      <DependentUpon>tieusu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trangthai2.resx">
+      <DependentUpon>trangthai2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\DTO.DangNhap_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.DichVu_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.KhachHang_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.LichSu_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.LoaiDichVu_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.ThanhToan_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.TrangThaiPhong_DTO.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{4a2d9e04-4603-4e5b-a0b0-863561a9f227}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{cd7d5915-2264-40c4-8bde-1f12bac3c584}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hotel3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tttt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner-hotel-melantrich.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel-hm-banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-edit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12088313_824574127658979_7774888353202561368_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hotel-Avante-127-1200x800.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VIT__Guestroom_King_032-1200x800.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hotel1320x742.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qllll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add User Male_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm Clock_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bar_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close Window_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check In Desk_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Check In Desk_50pxbac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dizzy Person_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Documents_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit User Male_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Erase_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Facebook_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fine Print_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gmail_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guest Female_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instagram Old_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-NH-ACB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-vietcombank.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MasterCard_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Microsoft Excel_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ok_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Page Overview 4_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System Task_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Twitter_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thumbnails_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User_50px_do.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View Details_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visa_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visa_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MEO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test61.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\61cD2Zq0zsL._SL1024_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Room-Banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accommodation_Page_Banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meo2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

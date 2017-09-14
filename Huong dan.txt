@@ -1,0 +1,3 @@
+1. Để chương trình hiển thị đúng font chữ theo thiết kế, đảm bảo tính thẩm mỹ thì nên cài đặt 4 font chữ trong thư mục font (không cài vẫn hoạt động tốt ^^)
+2. Để chương trình chạy được cần liên kết csdl, chạy file csdl trên sql sever. và xem đường dẫn tại Lớp DAO-class: dataprovider. File csdl nằm trong thư mục CSDL.
+3. chạy :))
