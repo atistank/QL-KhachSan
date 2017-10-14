@@ -1,8 +1,14 @@
+
+## Manage Hotel Project
+![c build](https://img.shields.io/badge/c%23-complete-green.svg)
+![contact](https://img.shields.io/badge/contact-facebook-blue.svg)
+
+
 <p align="center">Manage Hotel Project. - Ngo Anh Duy - DH15PM - 0947437752 2015 </p>
-
-This project made when i'm junior at University. About manage hotel, i'm used to C# language on visual studio and bunifo, devexpress, SQLserver 2012 to made it. Hope you enjoy! 
-
+This project made when i'm junior at University. I'm used to C# language on visual studio and bunifo, devexpress, SQLserver 2012 to made it. Hope you enjoy! 
 <p align="center"> Thanks. </p>
+
+
 
 
 <p align="center">------------- SceenShot Demo-----------------</p>
